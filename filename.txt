@@ -1,0 +1,5 @@
+1:cook:true
+2:bake:false
+3:decorate:false
+4:clean:false
+5:dust the sofa:true
